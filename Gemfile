@@ -8,6 +8,9 @@ gem 'jquery-rails'
 group :test, :development do
   gem 'unicorn'
   gem 'sqlite3'
+  gem 'rspec-rails'
+  gem 'guard-rspec'
+  gem 'rb-fsevent', '~> 0.9'
 end
 
 group :assets do
