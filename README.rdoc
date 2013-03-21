@@ -1,3 +1,7 @@
+Congratulations! You got dysentery!
+
+Checkout the Oregon Store @ <a href="http://oregonstore.herokuapp.com/">oregonstore.herokuapp.com</a>
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
